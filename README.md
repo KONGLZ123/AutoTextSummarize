@@ -4,9 +4,9 @@ Auto Text Summarize
 ## Abstractive
 生成式方式生成标题
 * keras     
-    * keras+glove，不加attention
+    * keras+glove
 * seq2seq
-    * encoder-decoder方式，未跑通   
+    * encoder-decoder，未跑通   
 * convertdata
     * tensorflow-textsum 数据转换
 
